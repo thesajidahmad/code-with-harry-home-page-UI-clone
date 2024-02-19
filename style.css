@@ -59,6 +59,10 @@ header{
   align-items: center;
 }
 
+.nav1_btn a>button, button{
+  cursor: pointer;
+}
+
 .fa-moon{
   font-size: 30px;
   margin: 0 15px;
